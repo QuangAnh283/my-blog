@@ -7,9 +7,12 @@ Tại đây, bạn sẽ tìm thấy các bài viết kỹ thuật, ví dụ minh
 
 ## Các chuyên mục nổi bật
 
+- đề xuất dự án giữa kì
 - Kiến trúc hệ thống phân tán
 - Tiến trình và luồng
 - Trao đổi thông tin
+- Định danh
+- Tìm hiểu các giao thức
 
 ---
 
